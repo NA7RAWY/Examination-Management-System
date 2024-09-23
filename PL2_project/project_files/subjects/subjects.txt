@@ -1,0 +1,9 @@
+math1,m1
+data_base,db1
+data_structure,ds1
+stat,s12
+operating-system,os1
+algorithm,al1
+
+math1,ma1
+math1,m
